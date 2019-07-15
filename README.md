@@ -1,2 +1,2 @@
 # Trial
-pushing the app to global repo
+This is the trial run
